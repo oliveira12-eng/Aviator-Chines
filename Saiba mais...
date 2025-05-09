@@ -1,0 +1,44 @@
+
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>Fatura com o Aviator Chinês</title>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      background-color: #111;
+      color: #fff;
+      text-align: center;
+      padding: 30px;
+    }
+    h1 {
+      color: #00ff99;
+    }
+    p {
+      font-size: 18px;
+      margin-top: 20px;
+    }
+    a.button {
+      display: inline-block;
+      margin-top: 30px;
+      padding: 15px 25px;
+      background-color: #00ff99;
+      color: #000;
+      text-decoration: none;
+      font-weight: bold;
+      border-radius: 8px;
+    }
+  </style>
+</head>
+<body>
+  <h1>Transforma 10MT em +20.000MT jogando no novo Aviator Chinês!</h1>
+  <p>Já pensaste em ganhar dinheiro de forma rápida e divertida?</p>
+  <p>Com apenas 10 meticais, podes faturar alto no novo Aviator Chinês — um jogo simples e emocionante.</p>
+  <p>Este método tem mudado a vida de muita gente.</p>
+  <p>Não precisa ser expert nem ter muito tempo.</p>
+  <p>É só criar conta, ativar o bónus e começar!</p>
+  <a href="https://tinyurl.com/2bjfdk7j" class="button">Quero faturar agora!</a>
+</body>
+</html>
